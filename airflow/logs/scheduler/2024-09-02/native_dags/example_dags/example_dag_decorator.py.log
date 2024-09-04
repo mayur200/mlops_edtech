@@ -1,0 +1,214 @@
+[2024-09-02 04:30:58,938] {processor.py:153} INFO - Started process (PID=643) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:30:58,939] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 04:30:58,939] {logging_mixin.py:115} INFO - [2024-09-02 04:30:58,939] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:30:59,069] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:30:59,131] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,131] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2024-09-02 04:30:59,148] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,148] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2024-09-02 04:30:59,162] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,162] {manager.py:508} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2024-09-02 04:30:59,162] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:30:59,168] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,167] {dag.py:2439} INFO - Creating ORM DAG for example_dag_decorator
+[2024-09-02 04:30:59,173] {logging_mixin.py:115} INFO - [2024-09-02 04:30:59,173] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 04:30:59,194] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.260 seconds
+[2024-09-02 04:31:41,265] {processor.py:153} INFO - Started process (PID=851) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:31:41,267] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 04:31:41,268] {logging_mixin.py:115} INFO - [2024-09-02 04:31:41,268] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:31:41,428] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:31:41,455] {logging_mixin.py:115} INFO - [2024-09-02 04:31:41,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:31:41,465] {logging_mixin.py:115} INFO - [2024-09-02 04:31:41,465] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 04:31:41,487] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.225 seconds
+[2024-09-02 04:32:20,368] {processor.py:153} INFO - Started process (PID=885) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:32:20,370] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 04:32:20,371] {logging_mixin.py:115} INFO - [2024-09-02 04:32:20,371] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:32:20,506] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 04:32:20,515] {logging_mixin.py:115} INFO - [2024-09-02 04:32:20,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:32:20,526] {logging_mixin.py:115} INFO - [2024-09-02 04:32:20,526] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 04:32:20,545] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.180 seconds
+[2024-09-02 21:18:49,331] {processor.py:153} INFO - Started process (PID=660) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:18:49,333] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:18:49,334] {logging_mixin.py:115} INFO - [2024-09-02 21:18:49,334] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:18:49,360] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:18:49,408] {logging_mixin.py:115} INFO - [2024-09-02 21:18:49,408] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:18:49,421] {logging_mixin.py:115} INFO - [2024-09-02 21:18:49,421] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:18:49,482] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.154 seconds
+[2024-09-02 21:19:28,624] {processor.py:153} INFO - Started process (PID=877) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:19:28,625] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:19:28,626] {logging_mixin.py:115} INFO - [2024-09-02 21:19:28,626] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:19:28,652] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:19:28,700] {logging_mixin.py:115} INFO - [2024-09-02 21:19:28,700] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:19:28,717] {logging_mixin.py:115} INFO - [2024-09-02 21:19:28,717] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:19:28,796] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.176 seconds
+[2024-09-02 21:20:08,318] {processor.py:153} INFO - Started process (PID=916) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:20:08,320] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:20:08,320] {logging_mixin.py:115} INFO - [2024-09-02 21:20:08,320] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:20:08,347] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:20:08,395] {logging_mixin.py:115} INFO - [2024-09-02 21:20:08,394] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:20:08,412] {logging_mixin.py:115} INFO - [2024-09-02 21:20:08,412] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:20:09,640] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.325 seconds
+[2024-09-02 21:21:29,108] {processor.py:153} INFO - Started process (PID=962) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:21:29,110] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:21:29,111] {logging_mixin.py:115} INFO - [2024-09-02 21:21:29,111] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:21:29,137] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:21:29,185] {logging_mixin.py:115} INFO - [2024-09-02 21:21:29,185] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:21:29,203] {logging_mixin.py:115} INFO - [2024-09-02 21:21:29,203] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:21:32,150] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 3.045 seconds
+[2024-09-02 21:22:32,899] {processor.py:153} INFO - Started process (PID=997) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:22:32,901] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:22:32,901] {logging_mixin.py:115} INFO - [2024-09-02 21:22:32,901] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:22:32,928] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:22:32,975] {logging_mixin.py:115} INFO - [2024-09-02 21:22:32,975] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:22:32,993] {logging_mixin.py:115} INFO - [2024-09-02 21:22:32,993] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:22:33,040] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.145 seconds
+[2024-09-02 21:23:11,528] {processor.py:153} INFO - Started process (PID=1033) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:23:11,529] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:23:11,530] {logging_mixin.py:115} INFO - [2024-09-02 21:23:11,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:23:11,556] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:23:11,573] {logging_mixin.py:115} INFO - [2024-09-02 21:23:11,573] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:23:11,591] {logging_mixin.py:115} INFO - [2024-09-02 21:23:11,591] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:23:13,742] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.218 seconds
+[2024-09-02 21:24:31,906] {processor.py:153} INFO - Started process (PID=1087) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:24:31,907] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:24:31,908] {logging_mixin.py:115} INFO - [2024-09-02 21:24:31,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:24:31,934] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:24:31,982] {logging_mixin.py:115} INFO - [2024-09-02 21:24:31,982] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:24:32,000] {logging_mixin.py:115} INFO - [2024-09-02 21:24:32,000] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:24:32,200] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.297 seconds
+[2024-09-02 21:25:22,488] {processor.py:153} INFO - Started process (PID=1120) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:25:22,489] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:25:22,490] {logging_mixin.py:115} INFO - [2024-09-02 21:25:22,489] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:25:22,516] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:25:22,564] {logging_mixin.py:115} INFO - [2024-09-02 21:25:22,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:25:22,581] {logging_mixin.py:115} INFO - [2024-09-02 21:25:22,581] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:25:22,945] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.461 seconds
+[2024-09-02 21:26:32,075] {processor.py:153} INFO - Started process (PID=1151) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:26:32,076] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:26:32,077] {logging_mixin.py:115} INFO - [2024-09-02 21:26:32,077] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:26:32,103] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:26:32,121] {logging_mixin.py:115} INFO - [2024-09-02 21:26:32,120] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:26:32,138] {logging_mixin.py:115} INFO - [2024-09-02 21:26:32,138] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:26:32,323] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.252 seconds
+[2024-09-02 21:27:39,561] {processor.py:153} INFO - Started process (PID=1188) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:27:39,562] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:27:39,563] {logging_mixin.py:115} INFO - [2024-09-02 21:27:39,562] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:27:39,589] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:27:39,606] {logging_mixin.py:115} INFO - [2024-09-02 21:27:39,606] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:27:39,624] {logging_mixin.py:115} INFO - [2024-09-02 21:27:39,624] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:27:41,383] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.826 seconds
+[2024-09-02 21:28:22,136] {processor.py:153} INFO - Started process (PID=1220) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:28:22,137] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:28:22,138] {logging_mixin.py:115} INFO - [2024-09-02 21:28:22,138] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:28:22,164] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:28:22,181] {logging_mixin.py:115} INFO - [2024-09-02 21:28:22,181] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:28:22,199] {logging_mixin.py:115} INFO - [2024-09-02 21:28:22,199] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:28:22,435] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.302 seconds
+[2024-09-02 21:29:39,188] {processor.py:153} INFO - Started process (PID=1275) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:29:39,190] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:29:39,191] {logging_mixin.py:115} INFO - [2024-09-02 21:29:39,190] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:29:39,217] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:29:39,265] {logging_mixin.py:115} INFO - [2024-09-02 21:29:39,265] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:29:39,282] {logging_mixin.py:115} INFO - [2024-09-02 21:29:39,282] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:29:41,918] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.734 seconds
+[2024-09-02 21:30:34,262] {processor.py:153} INFO - Started process (PID=1305) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:30:34,264] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:30:34,264] {logging_mixin.py:115} INFO - [2024-09-02 21:30:34,264] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:30:34,291] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:30:34,308] {logging_mixin.py:115} INFO - [2024-09-02 21:30:34,308] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:30:34,326] {logging_mixin.py:115} INFO - [2024-09-02 21:30:34,326] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:30:36,787] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.528 seconds
+[2024-09-02 21:31:23,575] {processor.py:153} INFO - Started process (PID=1347) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:31:23,577] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:31:23,577] {logging_mixin.py:115} INFO - [2024-09-02 21:31:23,577] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:31:23,604] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:31:23,621] {logging_mixin.py:115} INFO - [2024-09-02 21:31:23,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:31:23,639] {logging_mixin.py:115} INFO - [2024-09-02 21:31:23,639] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:31:23,748] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.177 seconds
+[2024-09-02 21:32:38,983] {processor.py:153} INFO - Started process (PID=1425) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:32:38,984] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:32:38,985] {logging_mixin.py:115} INFO - [2024-09-02 21:32:38,985] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:32:39,011] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:32:39,028] {logging_mixin.py:115} INFO - [2024-09-02 21:32:39,028] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:32:39,047] {logging_mixin.py:115} INFO - [2024-09-02 21:32:39,046] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:32:42,610] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 3.631 seconds
+[2024-09-02 21:33:36,769] {processor.py:153} INFO - Started process (PID=1455) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:33:36,770] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:33:36,771] {logging_mixin.py:115} INFO - [2024-09-02 21:33:36,771] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:33:36,797] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:33:36,814] {logging_mixin.py:115} INFO - [2024-09-02 21:33:36,814] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:33:36,832] {logging_mixin.py:115} INFO - [2024-09-02 21:33:36,832] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:33:37,321] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.556 seconds
+[2024-09-02 21:34:39,554] {processor.py:153} INFO - Started process (PID=1489) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:34:39,555] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:34:39,556] {logging_mixin.py:115} INFO - [2024-09-02 21:34:39,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:34:39,582] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:34:39,632] {logging_mixin.py:115} INFO - [2024-09-02 21:34:39,632] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:34:39,648] {logging_mixin.py:115} INFO - [2024-09-02 21:34:39,647] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:34:39,862] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.312 seconds
+[2024-09-02 21:35:51,561] {processor.py:153} INFO - Started process (PID=1533) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:35:51,563] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:35:51,563] {logging_mixin.py:115} INFO - [2024-09-02 21:35:51,563] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:35:51,584] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:35:51,618] {logging_mixin.py:115} INFO - [2024-09-02 21:35:51,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:35:51,629] {logging_mixin.py:115} INFO - [2024-09-02 21:35:51,629] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:35:54,195] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.636 seconds
+[2024-09-02 21:36:59,302] {processor.py:153} INFO - Started process (PID=1566) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:36:59,303] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:36:59,304] {logging_mixin.py:115} INFO - [2024-09-02 21:36:59,304] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:36:59,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:36:59,379] {logging_mixin.py:115} INFO - [2024-09-02 21:36:59,379] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:36:59,395] {logging_mixin.py:115} INFO - [2024-09-02 21:36:59,395] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:36:59,885] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.586 seconds
+[2024-09-02 21:37:46,575] {processor.py:153} INFO - Started process (PID=1607) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:37:46,576] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:37:46,577] {logging_mixin.py:115} INFO - [2024-09-02 21:37:46,577] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:37:46,603] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:37:46,620] {logging_mixin.py:115} INFO - [2024-09-02 21:37:46,620] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:37:46,638] {logging_mixin.py:115} INFO - [2024-09-02 21:37:46,638] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:37:47,430] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.859 seconds
+[2024-09-02 21:38:33,428] {processor.py:153} INFO - Started process (PID=1647) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:38:33,430] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:38:33,430] {logging_mixin.py:115} INFO - [2024-09-02 21:38:33,430] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:38:33,456] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:38:33,474] {logging_mixin.py:115} INFO - [2024-09-02 21:38:33,474] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:38:33,492] {logging_mixin.py:115} INFO - [2024-09-02 21:38:33,492] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:38:34,672] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.247 seconds
+[2024-09-02 21:39:21,467] {processor.py:153} INFO - Started process (PID=1698) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:39:21,471] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:39:21,472] {logging_mixin.py:115} INFO - [2024-09-02 21:39:21,472] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:39:21,511] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:39:21,624] {logging_mixin.py:115} INFO - [2024-09-02 21:39:21,623] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:39:21,656] {logging_mixin.py:115} INFO - [2024-09-02 21:39:21,656] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:39:22,595] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.141 seconds
+[2024-09-02 21:40:29,789] {processor.py:153} INFO - Started process (PID=1735) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:40:29,790] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:40:29,791] {logging_mixin.py:115} INFO - [2024-09-02 21:40:29,791] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:40:29,817] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:40:29,835] {logging_mixin.py:115} INFO - [2024-09-02 21:40:29,835] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:40:29,853] {logging_mixin.py:115} INFO - [2024-09-02 21:40:29,853] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:40:32,283] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.498 seconds
+[2024-09-02 21:41:50,901] {processor.py:153} INFO - Started process (PID=1770) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:41:50,902] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:41:50,902] {logging_mixin.py:115} INFO - [2024-09-02 21:41:50,902] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:41:50,929] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:41:50,946] {logging_mixin.py:115} INFO - [2024-09-02 21:41:50,946] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:41:50,964] {logging_mixin.py:115} INFO - [2024-09-02 21:41:50,964] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:41:52,677] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.780 seconds
+[2024-09-02 21:48:37,373] {processor.py:153} INFO - Started process (PID=1813) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:48:37,374] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:48:37,375] {logging_mixin.py:115} INFO - [2024-09-02 21:48:37,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:48:37,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:48:37,450] {logging_mixin.py:115} INFO - [2024-09-02 21:48:37,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:48:37,467] {logging_mixin.py:115} INFO - [2024-09-02 21:48:37,467] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:48:39,280] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.911 seconds
+[2024-09-02 21:50:02,612] {processor.py:153} INFO - Started process (PID=1858) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:50:02,614] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:50:02,614] {logging_mixin.py:115} INFO - [2024-09-02 21:50:02,614] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:50:02,641] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:50:02,689] {logging_mixin.py:115} INFO - [2024-09-02 21:50:02,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:50:02,707] {logging_mixin.py:115} INFO - [2024-09-02 21:50:02,706] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:50:04,178] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.570 seconds
+[2024-09-02 21:51:23,137] {processor.py:153} INFO - Started process (PID=1915) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:51:23,138] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-09-02 21:51:23,139] {logging_mixin.py:115} INFO - [2024-09-02 21:51:23,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:51:23,165] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-09-02 21:51:23,213] {logging_mixin.py:115} INFO - [2024-09-02 21:51:23,213] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:51:23,231] {logging_mixin.py:115} INFO - [2024-09-02 21:51:23,231] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-09-02 21:51:23,546] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.412 seconds

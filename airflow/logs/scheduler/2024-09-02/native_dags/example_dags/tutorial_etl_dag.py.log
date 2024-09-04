@@ -1,0 +1,235 @@
+[2024-09-02 04:31:16,575] {processor.py:153} INFO - Started process (PID=831) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:16,576] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 04:31:16,576] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,576] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:16,582] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:16,940] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,940] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2024-09-02 04:31:16,956] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,956] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2024-09-02 04:31:16,971] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,971] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2024-09-02 04:31:16,971] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:31:16,976] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,976] {dag.py:2439} INFO - Creating ORM DAG for tutorial_etl_dag
+[2024-09-02 04:31:16,983] {logging_mixin.py:115} INFO - [2024-09-02 04:31:16,983] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 04:31:17,017] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.445 seconds
+[2024-09-02 04:31:57,162] {processor.py:153} INFO - Started process (PID=865) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:57,164] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 04:31:57,164] {logging_mixin.py:115} INFO - [2024-09-02 04:31:57,164] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:57,171] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:31:57,189] {logging_mixin.py:115} INFO - [2024-09-02 04:31:57,189] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:31:57,307] {logging_mixin.py:115} INFO - [2024-09-02 04:31:57,307] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 04:31:57,325] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.166 seconds
+[2024-09-02 04:32:34,367] {processor.py:153} INFO - Started process (PID=899) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:32:34,368] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 04:32:34,369] {logging_mixin.py:115} INFO - [2024-09-02 04:32:34,369] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:32:34,376] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 04:32:34,393] {logging_mixin.py:115} INFO - [2024-09-02 04:32:34,393] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 04:32:34,512] {logging_mixin.py:115} INFO - [2024-09-02 04:32:34,512] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 04:32:34,530] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.167 seconds
+[2024-09-02 21:18:47,409] {processor.py:153} INFO - Started process (PID=658) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:18:47,411] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:18:47,411] {logging_mixin.py:115} INFO - [2024-09-02 21:18:47,411] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:18:47,419] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:18:47,437] {logging_mixin.py:115} INFO - [2024-09-02 21:18:47,437] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:18:47,456] {logging_mixin.py:115} INFO - [2024-09-02 21:18:47,456] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:18:47,481] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.075 seconds
+[2024-09-02 21:19:26,071] {processor.py:153} INFO - Started process (PID=703) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:19:26,073] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:19:26,074] {logging_mixin.py:115} INFO - [2024-09-02 21:19:26,074] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:19:26,082] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:19:26,099] {logging_mixin.py:115} INFO - [2024-09-02 21:19:26,099] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:19:26,118] {logging_mixin.py:115} INFO - [2024-09-02 21:19:26,118] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:19:26,171] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.103 seconds
+[2024-09-02 21:20:05,724] {processor.py:153} INFO - Started process (PID=914) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:20:05,725] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:20:05,726] {logging_mixin.py:115} INFO - [2024-09-02 21:20:05,726] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:20:05,734] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:20:05,751] {logging_mixin.py:115} INFO - [2024-09-02 21:20:05,751] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:20:05,770] {logging_mixin.py:115} INFO - [2024-09-02 21:20:05,770] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:20:06,268] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.547 seconds
+[2024-09-02 21:21:22,696] {processor.py:153} INFO - Started process (PID=960) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:21:22,697] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:21:22,698] {logging_mixin.py:115} INFO - [2024-09-02 21:21:22,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:21:22,706] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:21:22,723] {logging_mixin.py:115} INFO - [2024-09-02 21:21:22,723] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:21:22,742] {logging_mixin.py:115} INFO - [2024-09-02 21:21:22,742] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:21:23,713] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.021 seconds
+[2024-09-02 21:22:30,500] {processor.py:153} INFO - Started process (PID=995) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:22:30,501] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:22:30,502] {logging_mixin.py:115} INFO - [2024-09-02 21:22:30,502] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:22:30,510] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:22:30,527] {logging_mixin.py:115} INFO - [2024-09-02 21:22:30,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:22:30,547] {logging_mixin.py:115} INFO - [2024-09-02 21:22:30,546] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:22:30,894] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.398 seconds
+[2024-09-02 21:23:07,587] {processor.py:153} INFO - Started process (PID=1031) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:23:07,589] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:23:07,590] {logging_mixin.py:115} INFO - [2024-09-02 21:23:07,590] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:23:07,598] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:23:07,615] {logging_mixin.py:115} INFO - [2024-09-02 21:23:07,615] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:23:07,634] {logging_mixin.py:115} INFO - [2024-09-02 21:23:07,634] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:23:08,692] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.108 seconds
+[2024-09-02 21:24:27,053] {processor.py:153} INFO - Started process (PID=1085) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:24:27,055] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:24:27,055] {logging_mixin.py:115} INFO - [2024-09-02 21:24:27,055] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:24:27,063] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:24:27,080] {logging_mixin.py:115} INFO - [2024-09-02 21:24:27,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:24:27,099] {logging_mixin.py:115} INFO - [2024-09-02 21:24:27,099] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:24:27,797] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.748 seconds
+[2024-09-02 21:25:19,800] {processor.py:153} INFO - Started process (PID=1118) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:25:19,802] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:25:19,802] {logging_mixin.py:115} INFO - [2024-09-02 21:25:19,802] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:25:19,810] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:25:19,827] {logging_mixin.py:115} INFO - [2024-09-02 21:25:19,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:25:19,846] {logging_mixin.py:115} INFO - [2024-09-02 21:25:19,846] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:25:20,784] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.987 seconds
+[2024-09-02 21:26:26,320] {processor.py:153} INFO - Started process (PID=1149) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:26:26,321] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:26:26,322] {logging_mixin.py:115} INFO - [2024-09-02 21:26:26,322] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:26:26,330] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:26:26,348] {logging_mixin.py:115} INFO - [2024-09-02 21:26:26,348] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:26:26,367] {logging_mixin.py:115} INFO - [2024-09-02 21:26:26,366] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:26:27,208] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.891 seconds
+[2024-09-02 21:27:35,134] {processor.py:153} INFO - Started process (PID=1186) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:27:35,135] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:27:35,136] {logging_mixin.py:115} INFO - [2024-09-02 21:27:35,136] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:27:35,143] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:27:35,161] {logging_mixin.py:115} INFO - [2024-09-02 21:27:35,161] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:27:35,180] {logging_mixin.py:115} INFO - [2024-09-02 21:27:35,180] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:27:36,875] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.745 seconds
+[2024-09-02 21:28:19,610] {processor.py:153} INFO - Started process (PID=1218) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:28:19,611] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:28:19,612] {logging_mixin.py:115} INFO - [2024-09-02 21:28:19,612] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:28:19,620] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:28:19,637] {logging_mixin.py:115} INFO - [2024-09-02 21:28:19,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:28:19,656] {logging_mixin.py:115} INFO - [2024-09-02 21:28:19,656] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:28:19,783] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.177 seconds
+[2024-09-02 21:29:31,702] {processor.py:153} INFO - Started process (PID=1273) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:29:31,703] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:29:31,704] {logging_mixin.py:115} INFO - [2024-09-02 21:29:31,704] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:29:31,713] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:29:31,730] {logging_mixin.py:115} INFO - [2024-09-02 21:29:31,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:29:31,748] {logging_mixin.py:115} INFO - [2024-09-02 21:29:31,748] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:29:32,633] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.935 seconds
+[2024-09-02 21:30:30,263] {processor.py:153} INFO - Started process (PID=1303) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:30:30,265] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:30:30,265] {logging_mixin.py:115} INFO - [2024-09-02 21:30:30,265] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:30:30,274] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:30:30,291] {logging_mixin.py:115} INFO - [2024-09-02 21:30:30,291] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:30:30,309] {logging_mixin.py:115} INFO - [2024-09-02 21:30:30,309] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:30:31,438] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.179 seconds
+[2024-09-02 21:31:20,246] {processor.py:153} INFO - Started process (PID=1345) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:20,247] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:31:20,248] {logging_mixin.py:115} INFO - [2024-09-02 21:31:20,248] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:20,256] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:20,273] {logging_mixin.py:115} INFO - [2024-09-02 21:31:20,273] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:31:20,292] {logging_mixin.py:115} INFO - [2024-09-02 21:31:20,292] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:31:20,741] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.499 seconds
+[2024-09-02 21:31:57,002] {processor.py:153} INFO - Started process (PID=1382) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:57,004] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:31:57,005] {logging_mixin.py:115} INFO - [2024-09-02 21:31:57,004] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:57,019] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:31:57,036] {logging_mixin.py:115} INFO - [2024-09-02 21:31:57,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:31:57,055] {logging_mixin.py:115} INFO - [2024-09-02 21:31:57,055] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:31:57,338] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.339 seconds
+[2024-09-02 21:32:32,974] {processor.py:153} INFO - Started process (PID=1424) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:32:32,976] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:32:32,976] {logging_mixin.py:115} INFO - [2024-09-02 21:32:32,976] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:32:32,985] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:32:33,002] {logging_mixin.py:115} INFO - [2024-09-02 21:32:33,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:32:33,020] {logging_mixin.py:115} INFO - [2024-09-02 21:32:33,020] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:32:37,281] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 4.311 seconds
+[2024-09-02 21:33:33,048] {processor.py:153} INFO - Started process (PID=1453) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:33:33,049] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:33:33,050] {logging_mixin.py:115} INFO - [2024-09-02 21:33:33,050] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:33:33,058] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:33:33,075] {logging_mixin.py:115} INFO - [2024-09-02 21:33:33,075] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:33:33,094] {logging_mixin.py:115} INFO - [2024-09-02 21:33:33,094] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:33:34,220] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.176 seconds
+[2024-09-02 21:34:33,939] {processor.py:153} INFO - Started process (PID=1487) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:34:33,940] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:34:33,941] {logging_mixin.py:115} INFO - [2024-09-02 21:34:33,941] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:34:33,949] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:34:33,966] {logging_mixin.py:115} INFO - [2024-09-02 21:34:33,966] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:34:33,985] {logging_mixin.py:115} INFO - [2024-09-02 21:34:33,985] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:34:36,498] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 2.563 seconds
+[2024-09-02 21:35:46,733] {processor.py:153} INFO - Started process (PID=1531) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:35:46,735] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:35:46,735] {logging_mixin.py:115} INFO - [2024-09-02 21:35:46,735] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:35:46,743] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:35:46,760] {logging_mixin.py:115} INFO - [2024-09-02 21:35:46,760] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:35:46,779] {logging_mixin.py:115} INFO - [2024-09-02 21:35:46,779] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:35:47,930] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.201 seconds
+[2024-09-02 21:36:52,691] {processor.py:153} INFO - Started process (PID=1564) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:36:52,693] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:36:52,693] {logging_mixin.py:115} INFO - [2024-09-02 21:36:52,693] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:36:52,701] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:36:52,719] {logging_mixin.py:115} INFO - [2024-09-02 21:36:52,718] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:36:52,737] {logging_mixin.py:115} INFO - [2024-09-02 21:36:52,737] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:36:52,839] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.152 seconds
+[2024-09-02 21:37:43,838] {processor.py:153} INFO - Started process (PID=1605) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:37:43,840] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:37:43,840] {logging_mixin.py:115} INFO - [2024-09-02 21:37:43,840] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:37:43,848] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:37:43,865] {logging_mixin.py:115} INFO - [2024-09-02 21:37:43,865] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:37:43,884] {logging_mixin.py:115} INFO - [2024-09-02 21:37:43,884] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:37:44,062] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.228 seconds
+[2024-09-02 21:38:29,430] {processor.py:153} INFO - Started process (PID=1645) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:38:29,432] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:38:29,432] {logging_mixin.py:115} INFO - [2024-09-02 21:38:29,432] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:38:29,439] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:38:29,454] {logging_mixin.py:115} INFO - [2024-09-02 21:38:29,454] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:38:29,470] {logging_mixin.py:115} INFO - [2024-09-02 21:38:29,470] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:38:31,038] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.611 seconds
+[2024-09-02 21:39:19,163] {processor.py:153} INFO - Started process (PID=1696) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:39:19,174] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:39:19,175] {logging_mixin.py:115} INFO - [2024-09-02 21:39:19,175] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:39:19,181] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:39:19,219] {logging_mixin.py:115} INFO - [2024-09-02 21:39:19,219] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:39:19,254] {logging_mixin.py:115} INFO - [2024-09-02 21:39:19,254] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:39:19,497] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.352 seconds
+[2024-09-02 21:40:18,511] {processor.py:153} INFO - Started process (PID=1733) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:40:18,512] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:40:18,513] {logging_mixin.py:115} INFO - [2024-09-02 21:40:18,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:40:18,521] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:40:18,539] {logging_mixin.py:115} INFO - [2024-09-02 21:40:18,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:40:18,558] {logging_mixin.py:115} INFO - [2024-09-02 21:40:18,558] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:40:19,369] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.861 seconds
+[2024-09-02 21:41:45,058] {processor.py:153} INFO - Started process (PID=1768) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:41:45,059] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:41:45,060] {logging_mixin.py:115} INFO - [2024-09-02 21:41:45,060] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:41:45,068] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:41:45,085] {logging_mixin.py:115} INFO - [2024-09-02 21:41:45,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:41:45,104] {logging_mixin.py:115} INFO - [2024-09-02 21:41:45,104] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:41:45,543] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.488 seconds
+[2024-09-02 21:48:31,524] {processor.py:153} INFO - Started process (PID=1811) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:48:31,525] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:48:31,526] {logging_mixin.py:115} INFO - [2024-09-02 21:48:31,525] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:48:31,533] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:48:31,547] {logging_mixin.py:115} INFO - [2024-09-02 21:48:31,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:48:31,562] {logging_mixin.py:115} INFO - [2024-09-02 21:48:31,562] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:48:32,328] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.808 seconds
+[2024-09-02 21:49:58,722] {processor.py:153} INFO - Started process (PID=1856) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:49:58,723] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:49:58,724] {logging_mixin.py:115} INFO - [2024-09-02 21:49:58,724] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:49:58,732] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:49:58,749] {logging_mixin.py:115} INFO - [2024-09-02 21:49:58,749] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:49:58,768] {logging_mixin.py:115} INFO - [2024-09-02 21:49:58,768] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:49:58,996] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.278 seconds
+[2024-09-02 21:50:35,043] {processor.py:153} INFO - Started process (PID=1880) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:50:35,044] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:50:35,045] {logging_mixin.py:115} INFO - [2024-09-02 21:50:35,044] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:50:35,053] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:50:35,072] {logging_mixin.py:115} INFO - [2024-09-02 21:50:35,072] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:50:35,091] {logging_mixin.py:115} INFO - [2024-09-02 21:50:35,091] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:50:35,313] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.274 seconds
+[2024-09-02 21:51:18,690] {processor.py:153} INFO - Started process (PID=1913) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:51:18,691] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:51:18,692] {logging_mixin.py:115} INFO - [2024-09-02 21:51:18,692] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:51:18,700] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:51:18,717] {logging_mixin.py:115} INFO - [2024-09-02 21:51:18,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:51:18,736] {logging_mixin.py:115} INFO - [2024-09-02 21:51:18,736] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:51:19,481] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.795 seconds
+[2024-09-02 21:52:00,589] {processor.py:153} INFO - Started process (PID=1941) to work on /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:52:00,591] {processor.py:641} INFO - Processing file /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-09-02 21:52:00,592] {logging_mixin.py:115} INFO - [2024-09-02 21:52:00,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:52:00,599] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-09-02 21:52:00,617] {logging_mixin.py:115} INFO - [2024-09-02 21:52:00,616] {dag.py:2420} INFO - Sync 1 DAGs
+[2024-09-02 21:52:00,636] {logging_mixin.py:115} INFO - [2024-09-02 21:52:00,635] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-09-02 21:52:03,511] {processor.py:161} INFO - Processing /opt/conda/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 2.925 seconds
